@@ -2,6 +2,8 @@
 
 This repository provides server mappings for the NoRisk Client, allowing servers to have enhanced icons, banners, and metadata displayed in the client.
 
+Example
+
 ## What is this?
 - Supplies the NoRisk Client  with improved server presentation: custom icons, banners, and descriptive metadata.
 - Ensures all server assets (icons, backgrounds) follow consistent conventions for best appearance in the client.
